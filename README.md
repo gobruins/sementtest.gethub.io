@@ -1,1 +1,1 @@
-# sementtest.gethub.io
+# gobruins.github.io
